@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projeto\\ProjetoJogo.csproj": {}
+    "D:\\Projeto\\ProjetoJogo.csproj": {}
   },
   "projects": {
-    "d:\\Projeto\\ProjetoJogo.csproj": {
+    "D:\\Projeto\\ProjetoJogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projeto\\ProjetoJogo.csproj",
+        "projectUniqueName": "D:\\Projeto\\ProjetoJogo.csproj",
         "projectName": "ProjetoJogo",
-        "projectPath": "d:\\Projeto\\ProjetoJogo.csproj",
+        "projectPath": "D:\\Projeto\\ProjetoJogo.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "d:\\Projeto\\obj\\",
+        "outputPath": "D:\\Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

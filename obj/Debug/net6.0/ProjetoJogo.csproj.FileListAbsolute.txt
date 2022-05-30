@@ -1,0 +1,15 @@
+D:\Projeto\bin\Debug\net6.0\ProjetoJogo.exe
+D:\Projeto\bin\Debug\net6.0\ProjetoJogo.deps.json
+D:\Projeto\bin\Debug\net6.0\ProjetoJogo.runtimeconfig.json
+D:\Projeto\bin\Debug\net6.0\ProjetoJogo.dll
+D:\Projeto\bin\Debug\net6.0\ProjetoJogo.pdb
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.csproj.AssemblyReference.cache
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.AssemblyInfoInputs.cache
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.AssemblyInfo.cs
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.csproj.CoreCompileInputs.cache
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.dll
+D:\Projeto\obj\Debug\net6.0\refint\ProjetoJogo.dll
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.pdb
+D:\Projeto\obj\Debug\net6.0\ProjetoJogo.genruntimeconfig.cache
+D:\Projeto\obj\Debug\net6.0\ref\ProjetoJogo.dll

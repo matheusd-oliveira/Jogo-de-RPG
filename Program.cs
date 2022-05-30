@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+Heroi arus = new Heroi("Arus", 20, "Guerreiro");
+Console.Write($"{arus.nome}");
+
+
