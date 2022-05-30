@@ -1,10 +1,12 @@
 public class WhiteWizard : Hero
 {
-    public WhiteWizard(string name, int level, string heroType) : base(name, level, heroType)
+    public WhiteWizard(string name, int level, string heroType, int hpPoints, int mpPoints) : base(name, level, heroType, hpPoints, mpPoints)
     {
         this.name = name;
         this.level = level;
         this.heroType = heroType;
+        this.hpPoints = hpPoints;
+        this.mpPoints = mpPoints;
     }
 
 
@@ -13,10 +15,11 @@ public class WhiteWizard : Hero
         return $"{this.name} lançou magia de Luz!";
     }
 
-    public string Defense(){
+    public string Defense()
+    {
         return $"{this.name} defendeu o ataque. Defesa ATIVADA: Barreira de Luz";
     }
-    
+
     public string Attack(int Bonus)
     {
 

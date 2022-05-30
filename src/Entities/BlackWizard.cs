@@ -1,10 +1,12 @@
 public class BlackWizard : Hero
 {
-    public BlackWizard(string name, int level, string heroType) : base(name, level, heroType)
+    public BlackWizard(string name, int level, string heroType, int hpPoints, int mpPoints) : base(name, level, heroType, hpPoints, mpPoints)
     {
         this.name = name;
         this.level = level;
         this.heroType = heroType;
+        this.hpPoints = hpPoints;
+        this.mpPoints = mpPoints;
     }
 
     public override string Attack()
