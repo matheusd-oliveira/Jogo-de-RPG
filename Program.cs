@@ -1,5 +1,4 @@
-﻿
-Heroi arus = new Heroi("Arus", 20, "Guerreiro");
-Console.Write($"{arus.nome}");
+﻿Arus hero = new Arus("Arus", 23, "Knight");
 
+Console.Write(hero.ToString());
 
